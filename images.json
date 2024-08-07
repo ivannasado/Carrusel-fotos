@@ -1,0 +1,20 @@
+{
+    "images": [
+      {
+        "src": "lbm_chips.jpeg",
+        "alt": "Chips de laboratorio"
+      },
+      {
+        "src": "lbm_portada.png",
+        "alt": "Laboratorio de biología molecular"
+      },
+      {
+        "src": "lbm_ruben.jpeg",
+        "alt": "Ruben"
+      },
+      {
+        "src": "lbm_tere.jpeg",
+        "alt": "Laboratoria Dra. Tere"
+      }
+    ]
+}
